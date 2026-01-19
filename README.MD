@@ -1,3 +1,5 @@
+![CyberVault Logo](docs/logo.png)
+
 # 🛡️ CyberSec Event Tracker
 
 ![Project Status](https://img.shields.io/badge/Status-Geliştirme_Aşamasında-orange)
