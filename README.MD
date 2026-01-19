@@ -1,5 +1,5 @@
 <div align="center">
-<img src="docs/logo.png" width="600" height="600">
+<img src="docs/logo.png" width="500" height="500">
 </div>
 
 # 🛡️ CyberSec Event Tracker
