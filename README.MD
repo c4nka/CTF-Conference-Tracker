@@ -1,4 +1,4 @@
-![CyberVault Logo](docs/logo.png)
+<img src="docs/logo.png" width="200" height="200">
 
 # 🛡️ CyberSec Event Tracker
 
