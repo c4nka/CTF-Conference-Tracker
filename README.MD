@@ -41,3 +41,10 @@ Projeye katkıda bulunmak isterseniz lütfen bir `Issue` açın veya `Pull Reque
 3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
 4. Branch'inizi pushlayın (`git push origin feature/YeniOzellik`)
 5. Pull Request oluşturun
+
+## 👤 Hazırlayan
+
+- **Ad Soyad:** Raşit ÇANKAYA
+- **Öğrenci No:** 2420191006
+- **Üniversite:** İstinye Üniversitesi
+- **Bölüm:** Bilişim Güvenliği Teknolojisi (İÖ)
