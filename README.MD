@@ -15,7 +15,7 @@ Siber güvenlik dünyasındaki dinamizmi yakalamak zor olabilir. Bu proje, dağ�
 
 | Özellik | Açıklama |
 | :--- | :--- |
-| **📅 Etkinlik Takvimi** | Yaklaşan CTF ve konferansları interaktif bir takvim üzerinde görselleştirme. |
+| **📅 Etkinlik Takvimi** | Yaklaşan CTF ve konferansları interaktif bir takvim üzerinde gösterme. |
 | **🤖 Otomatik Veri Çekme** | `CTFtime` ve resmi konferans web sitelerinden düzenli veri kazıma (Web Scraping). |
 | **🔔 Kişiselleştirme** | Kullanıcı ilgi alanlarına (Örn: *Web Security, Cryptography*) göre özel bildirimler. |
 | **📚 Arşiv Sistemi** | Geçmiş etkinliklere ait *Write-up* (çözüm) ve sunum dosyalarına erişim. |
