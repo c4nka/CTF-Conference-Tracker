@@ -67,6 +67,8 @@ pip install flask requests
 
 ## Dosya Yapısının Kontrolü
 
+'''bash
+
 siber_etkinlik_takip/
 │
 ├── app.py                # Ana sunucu dosyası (Backend)
