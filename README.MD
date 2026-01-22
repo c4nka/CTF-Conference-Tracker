@@ -4,7 +4,7 @@
 
 # 🛡️ CyberSec Event Tracker
 
-![Project Status](https://img.shields.io/badge/Status-Geliştirme_Aşamasında-orange)
+![Project Status](https://img.shields.io/badge/Status-Tamamlandı-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 > **Dünya genelindeki siber güvenlik yarışmalarını (CTF) ve prestijli konferansları (BlackHat, DEFCON) tek bir çatı altında toplayan, kişiselleştirilebilir etkinlik takip platformu.**
