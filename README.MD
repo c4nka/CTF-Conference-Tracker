@@ -67,7 +67,7 @@ Terminalinizi (veya Komut İstemi'ni) proje klasöründe açın ve gerekli Pytho
 
 pip install flask requests
 
-## Uygulamanın Başlatılması
+## Dosya Yapısının Kontrolü
 
 siber_etkinlik_takip/
 │
@@ -80,6 +80,15 @@ siber_etkinlik_takip/
 │
 └── templates/
     └── index.html        # Arayüz dosyası (Frontend)
+
+## Uygulamanın Başlatılması
+
+python app.py
+Başarılı olduğunda şu çıktıyı göreceksiniz: Running on http://127.0.0.1:5000
+
+## Erişim
+
+Web tarayıcınızı açın ve adres çubuğuna şunu yazın: http://127.0.0.1:5000
 
 ## 👤 Hazırlayan
 
