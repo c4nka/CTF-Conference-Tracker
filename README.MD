@@ -85,6 +85,7 @@ siber_etkinlik_takip/
 ## Uygulamanın Başlatılması
 
 python app.py <br>
+<br>
 Başarılı olduğunda şu çıktıyı göreceksiniz: Running on http://127.0.0.1:5000
 
 ## Erişim
