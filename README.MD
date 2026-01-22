@@ -67,6 +67,20 @@ Terminalinizi (veya Komut İstemi'ni) proje klasöründe açın ve gerekli Pytho
 
 pip install flask requests
 
+## Uygulamanın Başlatılması
+
+siber_etkinlik_takip/
+│
+├── app.py                # Ana sunucu dosyası (Backend)
+├── project_info.json     # Proje meta veri dosyası
+├── README.md             # Proje dokümantasyonu (Bu dosya)
+│
+├── static/
+│   └── logo.png          # Proje logosu
+│
+└── templates/
+    └── index.html        # Arayüz dosyası (Frontend)
+
 ## 👤 Hazırlayan
 
 - **Ad Soyad:** Raşit ÇANKAYA
