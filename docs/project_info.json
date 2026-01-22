@@ -1,0 +1,22 @@
+{
+  "projectName": "CyberVault - Siber İstihbarat Platformu",
+  "category": "Siber Güvenlik / OSINT Aracı",
+  "author": "Adınız Soyadınız",
+  "version": "1.0.0",
+  "description": "Dünya genelindeki CTF yarışmalarını ve prestijli konferansları (BlackHat, DEFCON) otomatik olarak toplayan, kullanıcının teknik ilgi alanlarına göre (Web, Pwn, Crypto) filtreleyen ve bildirim sunan kişisel takip asistanı.",
+  "features": [
+    "FullCalendar entegrasyonlu interaktif etkinlik takvimi",
+    "CTFtime API üzerinden gerçek zamanlı veri çekme (Otomasyon)",
+    "Kişiselleştirilebilir bildirim merkezi ve modal yapısı",
+    "İlgi alanına göre dinamik içerik filtreleme (Web, Crypto, Pwn)",
+    "Geçmiş etkinlikler, sunumlar ve Write-up arşivi",
+    "Karanlık mod (Dark Mode) uyumlu responsive arayüz"
+  ],
+  "requirements": {
+    "os": "Windows 10/11, Linux (Ubuntu 20.04+) veya macOS",
+    "language": "Python 3.8+",
+    "framework": "Flask",
+    "frontend": "Bootstrap 5, Vanilla JS, FullCalendar.js",
+    "dependencies": "requests, flask"
+  }
+}
