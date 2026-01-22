@@ -67,7 +67,7 @@ pip install flask requests
 
 ## Dosya Yapısının Kontrolü
 
-'''bash
+```bash
 
 siber_etkinlik_takip/
 │
@@ -80,6 +80,7 @@ siber_etkinlik_takip/
 │
 └── templates/
     └── index.html        # Arayüz dosyası (Frontend)
+```
 
 ## Uygulamanın Başlatılması
 
