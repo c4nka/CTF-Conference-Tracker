@@ -46,6 +46,26 @@ Projeye katkıda bulunmak isterseniz lütfen bir `Issue` açın veya `Pull Reque
 4. Branch'inizi pushlayın (`git push origin feature/YeniOzellik`)
 5. Pull Request oluşturun
 
+## 🛠️ Gereksinimler (Prerequisites)
+
+Projenin sorunsuz çalışabilmesi için bilgisayarınızda aşağıdaki yazılımların kurulu olması gerekmektedir:
+
+* **Python 3.8 veya üzeri** (Python'u [buradan](https://www.python.org/downloads/) indirebilirsiniz).
+* **pip** (Python paket yöneticisi - Python ile birlikte gelir).
+
+---
+
+## 📦 Kurulum ve Çalıştırma Talimatları
+
+Projeyi kendi bilgisayarınızda ayağa kaldırmak için aşağıdaki adımları sırasıyla uygulayın.
+
+### Adım 1: Gerekli Kütüphanelerin Yüklenmesi
+
+Terminalinizi (veya Komut İstemi'ni) proje klasöründe açın ve gerekli Python kütüphanelerini yükleyin:
+
+```bash
+pip install flask requests
+
 ## 👤 Hazırlayan
 
 - **Ad Soyad:** Raşit ÇANKAYA
