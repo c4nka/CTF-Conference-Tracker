@@ -63,8 +63,6 @@ Projeyi kendi bilgisayarınızda ayağa kaldırmak için aşağıdaki adımları
 
 Terminalinizi (veya Komut İstemi'ni) proje klasöründe açın ve gerekli Python kütüphanelerini yükleyin:
 
-```bash
-
 pip install flask requests
 
 ## Dosya Yapısının Kontrolü
