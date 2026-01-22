@@ -65,6 +65,8 @@ Terminalinizi (veya Komut İstemi'ni) proje klasöründe açın ve gerekli Pytho
 
 ```bash
 
+pip install flask requests
+
 ## 👤 Hazırlayan
 
 - **Ad Soyad:** Raşit ÇANKAYA
